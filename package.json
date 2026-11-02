@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@stdlib/stats": "^0.4.1"
+  }
+}
