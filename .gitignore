@@ -1,3 +1,15 @@
+# Entorno virtual de Python
+venv/
 env/
+.venv/
+
+# Temporales de Jupyter Notebook
 .ipynb_checkpoints/
+
+# Archivos de Python compilados / temporales
 __pycache__/
+*.pyc
+
+# Archivos de Node por si acaso
+node_modules/
+package-lock.json
